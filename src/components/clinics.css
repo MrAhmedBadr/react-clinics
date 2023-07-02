@@ -1,0 +1,32 @@
+.Clinics {
+  height: 700px;
+  margin-top: 50px;
+}
+.clinic {
+  width: 100%;
+  background-color: #c7e3ef;
+  border-radius: 25px;
+  height: 130px;
+  margin-top: 20px;
+  text-align: center;
+  line-height: 130px;
+  position: relative;
+  font-size: 22px;
+  font-weight: bold;
+  user-select: none;
+  cursor: pointer;
+}
+.clinic_img {
+  width: 130px;
+  height: 130px;
+  border-radius: 25px;
+  background-color: white;
+}
+.img_l {
+  position: absolute;
+  left: 0;
+}
+.img_r {
+  position: absolute;
+  right: 0;
+}

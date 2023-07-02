@@ -1,0 +1,122 @@
+.signIn {
+  background-color: #7ba2ef;
+  color: #070a0f;
+}
+.sign {
+  width: 120px;
+  height: 30px;
+  margin-left: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  text-decoration: none;
+}
+.firstSection {
+  display: grid;
+  grid-template-columns: 30% 40% 30%;
+}
+.homeImg {
+  width: 299px;
+  height: 209px;
+}
+.secSection {
+  height: 400px;
+  width: 100%;
+  background-color: #c7e3ef;
+}
+.contain_Appoint {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+  width: 100%;
+}
+.Appoint {
+  background-color: white;
+  height: 300px;
+  width: 340px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.title_Appoint {
+  color: #3d89fe;
+}
+.parag_Appoint {
+  color: #272b47;
+  font-size: 14px;
+}
+.thirdSection {
+  padding-top: 100px;
+  height: 450px;
+  width: 100%;
+}
+.contain_clinc {
+  padding-top: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.clinc {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+.img_c {
+  width: 150px;
+  height: 150px;
+}
+.clinc_title {
+  user-select: none;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.clinc_title:hover {
+  color: #335298;
+}
+.forthSection {
+  background-color: #c7e3ef;
+  height: 500px;
+  width: 100%;
+  margin-bottom: 50px;
+}
+.swip {
+  height: 400px;
+  width: 100%;
+}
+.doctorInfo {
+  margin-left: 36px;
+  margin-top: 20px;
+  background-color: #c7e3ef;
+  border: 10px solid white;
+  width: 295px;
+  height: 330px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.doctorInfo:hover {
+  border: 15px solid white;
+}
+.img_doctorInfo {
+  width: 150px;
+  height: 150px;
+}
+.fle {
+  display: flex;
+}
+.sw {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.tit {
+  font-weight: bold;
+
+  font-size: 18px;
+}

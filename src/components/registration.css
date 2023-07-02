@@ -1,0 +1,29 @@
+.reg {
+  height: 100vh;
+}
+.btn_res {
+  background-color: #c7e3ef;
+  color: black;
+  font-weight: bold;
+  font-size: 22px;
+  border: none;
+  border-radius: 5px;
+  width: 150px;
+  height: 40px;
+}
+.btn_cont {
+  direction: rtl;
+}
+.form-label {
+  font-weight: bold;
+  font-size: 18px;
+}
+.re_tit {
+  font-size: 32px;
+  font-weight: bold;
+  padding-top: 30px;
+}
+.fo_tit {
+  font-size: 28px;
+  padding-top: 30px;
+}

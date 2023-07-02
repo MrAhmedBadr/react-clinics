@@ -1,0 +1,69 @@
+.nur_inp {
+  border: none;
+  background-color: #d9d9d9;
+  height: 50px;
+  border-radius: 10px;
+  padding-left: 10px;
+  margin-left: 5px;
+  width: 70%;
+}
+.da {
+  width: 25%;
+}
+.Day {
+  width: 10%;
+  height: 30px;
+}
+.form_nurs {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  text-align: center;
+}
+.nur_img {
+  width: 200px;
+  height: 200px;
+}
+.img_section {
+  width: 200px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.im_section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.day_section {
+  width: 50%;
+  line-height: 40px;
+}
+.da_ins {
+  display: flex;
+  justify-content: space-around;
+}
+.phone {
+  width: 50%;
+}
+.nur_btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 140px;
+  height: 40px;
+  background-color: #7ba2ef;
+  font-size: 22px;
+  font-weight: bold;
+  border: none;
+  border-radius: 10px;
+}
+.btn_con {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

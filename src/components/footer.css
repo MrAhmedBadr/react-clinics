@@ -1,0 +1,22 @@
+.footer {
+  width: 100%;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #31376a;
+}
+.cont_foot {
+  width: 400px;
+  height: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 30px;
+  background-color: #313e6a;
+}
+.icon {
+  user-select: none;
+  color: #b9c6b9;
+  cursor: pointer;
+}

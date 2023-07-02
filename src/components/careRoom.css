@@ -1,0 +1,40 @@
+.care_img {
+  width: 450px;
+  height: 450px;
+}
+.care {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.care_inp {
+  border: none;
+  background-color: #d9d9d9;
+  height: 50px;
+  border-radius: 10px;
+  padding-left: 10px;
+  margin-left: 5px;
+  width: 250px;
+}
+.care_form {
+  height: 400px;
+  width: 450px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.ty {
+  margin: 0px 15px;
+}
+.care_sub {
+  background-color: rgba(123, 162, 239, 1);
+  border: none;
+  height: 40px;
+  width: 130px;
+  border-radius: 10px;
+  font-size: 18px;
+  font-weight: bold;
+}

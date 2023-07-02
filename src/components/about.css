@@ -1,0 +1,31 @@
+.about {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.about_first {
+  width: 400px;
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 22px;
+}
+.about_img {
+  width: 450px;
+  height: 450px;
+}
+.btn_about {
+  background-color: #d9d9d9;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  user-select: none;
+  cursor: pointer;
+  width: 180px;
+  height: 50px;
+}

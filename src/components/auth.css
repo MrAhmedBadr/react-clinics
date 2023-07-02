@@ -1,0 +1,33 @@
+.auth {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.auth_img {
+  width: 200px;
+  height: 200px;
+}
+.auth_ins {
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.auth_right {
+  margin-right: 100px;
+}
+
+.auth_btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 120px;
+  height: 40px;
+  font-weight: bold;
+  border: none;
+  font-size: 22px;
+  user-select: none;
+  cursor: pointer;
+}

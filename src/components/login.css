@@ -1,0 +1,54 @@
+.log {
+  height: 100vh;
+}
+.conta {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.log_tit {
+  display: flex;
+}
+.login_img {
+  width: 100px;
+  height: 100px;
+}
+.title_login {
+  font-size: 52px;
+  font-weight: bold;
+}
+.form_login {
+  height: 230px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+.login_inp {
+  border: none;
+  background-color: #d9d9d9;
+  height: 50px;
+  border-radius: 10px;
+  padding-left: 10px;
+  margin-left: 5px;
+  width: 30%;
+}
+.login_btn {
+  width: 150px;
+  height: 40px;
+  background-color: #355069;
+  color: white;
+  font-size: 22px;
+  font-weight: bold;
+  border: none;
+}
+.login_forget {
+  color: #7ba2ef;
+  font-size: 22px;
+  font-weight: bold;
+  user-select: none;
+  cursor: pointer;
+}

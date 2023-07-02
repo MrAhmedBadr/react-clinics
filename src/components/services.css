@@ -1,0 +1,49 @@
+.serConta {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  height: 550px;
+  margin-bottom: 50px;
+}
+.serIns {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+}
+.serItem {
+  height: 250px;
+  width: 540px;
+  background-color: #c7e3ef;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+.servImg {
+  width: 100px;
+  height: 100px;
+  margin: 10px 0px 0px 10px;
+}
+.servTitle {
+  font-weight: bold;
+  font-size: 22px;
+  text-align: center;
+}
+.serBtn {
+  direction: rtl;
+  width: 95%;
+}
+.serBtnItem {
+  background-color: #31376a;
+  color: white;
+  font-size: 25px;
+  width: 90px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  text-align: center;
+}

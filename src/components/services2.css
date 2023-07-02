@@ -1,0 +1,54 @@
+.services2 {
+  height: 900px;
+  margin-top: 50px;
+}
+.serv2 {
+  width: 100%;
+  background-color: #c7e3ef;
+  border-radius: 25px;
+  height: 170px;
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  user-select: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.serv2_p {
+  word-wrap: break-word;
+  width: 600px;
+  height: 100%;
+  text-align: center;
+}
+.serv2_PL {
+  margin-left: 200px;
+}
+.serv2_img {
+  width: 90px;
+  height: 90px;
+  border-radius: 25px;
+}
+.serv2_btn {
+  background-color: #31376a;
+  color: white;
+  font-size: 25px;
+  width: 90px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  position: absolute;
+  bottom: 20px;
+  border: none;
+  border-radius: 10px;
+}
+.serv2_btn_contain {
+  height: 100%;
+  position: relative;
+  width: 100px;
+}
+.color {
+  background-color: #7ba2ef;
+}

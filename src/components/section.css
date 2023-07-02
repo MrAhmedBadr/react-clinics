@@ -1,0 +1,43 @@
+.section {
+  height: 750px;
+  width: 100%;
+}
+.sect_ins {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: 40px;
+}
+.sect_item {
+  width: 300px;
+  height: 330px;
+  background-color: #d9d9d9;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 10px;
+}
+.sec_img {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+}
+.sec_title {
+  font-size: 22px;
+  font-weight: bold;
+}
+.btn_sec {
+  width: 140px;
+  height: 35px;
+  background-color: #45749e;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 25px;
+  user-select: none;
+  cursor: pointer;
+}
